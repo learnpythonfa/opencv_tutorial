@@ -1,2 +1,2 @@
 # opencv_tutorial
-Learning Opencv is fun!
+check the youtube page for more information!
